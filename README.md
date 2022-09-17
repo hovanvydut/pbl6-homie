@@ -28,3 +28,7 @@ tsrc foreach -g be -- git checkout main
 ```
 
 Use `tsrc foreach -g be -- <command>`
+
+## References
+
+* https://your-tools.github.io/tsrc/
