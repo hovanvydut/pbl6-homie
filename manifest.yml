@@ -1,4 +1,8 @@
 repos:
+  - url: git@github.com:hovanvydut/pbl6-tsrc.git
+    branch: main
+    dest: manifest
+
   - url: git@github.com:hovanvydut/pbl6-mobile.git
     branch: master
     dest: mobile
