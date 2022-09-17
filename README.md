@@ -21,3 +21,10 @@ Synchronize all the repositories in the workspace (git pull):
 ```
 tsrc sync
 ```
+
+Checkout all repo of group BE to main branch
+```
+tsrc foreach -g be -- git checkout main
+```
+
+Use `tsrc foreach -g be -- <command>`
