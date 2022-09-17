@@ -4,12 +4,15 @@ repos:
     dest: mobile
 
   - url: git@github.com:hovanvydut/pbl6-frontend-admin.git
+    branch: main
     dest: fe/admin
 
   - url: git@github.com:hovanvydut/pbl6-frontend-client.git
+    branch: main
     dest: fe/client
 
   - url: git@github.com:phuocleoceo/Base-BE.git
+    branch: main
     dest: be/base
 
 groups:
