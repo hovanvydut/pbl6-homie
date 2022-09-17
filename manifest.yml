@@ -1,9 +1,9 @@
 repos:
   - url: git@github.com:hovanvydut/pbl6-mobile.git
     dest: mobile
- -  url: git@github.com:hovanvydut/pbl6-frontend-admin.git
+  -  url: git@github.com:hovanvydut/pbl6-frontend-admin.git
     dest: frontend/admin
--  url: git@github.com:hovanvydut/pbl6-frontend-client.git
+  -  url: git@github.com:hovanvydut/pbl6-frontend-client.git
     dest: frontend/client
--  url: git@github.com:phuocleoceo/Base-BE.git
+  -  url: git@github.com:phuocleoceo/Base-BE.git
     dest: be/base
