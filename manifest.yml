@@ -10,4 +10,3 @@ repos:
 
 -  url: git@github.com:phuocleoceo/Base-BE.git
     dest: be/base
-    

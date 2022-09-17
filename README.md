@@ -19,5 +19,5 @@ tsrc init git@github.com:hovanvydut/pbl6.git
 
 Synchronize all the repositories in the workspace:
 ```
-Synchronize all the repositories in the workspace:
+tsrc sync
 ```
