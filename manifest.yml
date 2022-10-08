@@ -4,7 +4,7 @@ repos:
     dest: manifest
 
   - url: git@github.com:hovanvydut/pbl6-mobile.git
-    branch: master
+    branch: main
     dest: mobile
 
   - url: git@github.com:hovanvydut/pbl6-frontend-admin.git
@@ -32,7 +32,7 @@ groups:
     repos:
       - be/base
       - be/monolithic
-      
+
   mobile:
     repos:
       - mobile
