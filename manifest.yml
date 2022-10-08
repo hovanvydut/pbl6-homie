@@ -19,6 +19,10 @@ repos:
     branch: main
     dest: be/base
 
+  - url: git@github.com:hovanvydut/pbl6-be-monolithic.git
+    branch: main
+    dest: be/monolithic
+
 groups:
   fe:
     repos:
@@ -27,6 +31,8 @@ groups:
   be:
     repos:
       - be/base
+      - be/monolithic
+      
   mobile:
     repos:
       - mobile
