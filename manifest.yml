@@ -22,6 +22,10 @@ repos:
   - url: git@github.com:hovanvydut/pbl6-be-monolithic.git
     branch: main
     dest: be/monolithic
+  
+  - url: git@github.com:hovanvydut/pbl6-be-migration.git
+    branch: main
+    dest: be/Migrations
 
 groups:
   fe:
@@ -32,6 +36,7 @@ groups:
     repos:
       - be/base
       - be/monolithic
+      - be/Migrations
 
   mobile:
     repos:
