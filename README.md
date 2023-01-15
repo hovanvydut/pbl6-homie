@@ -6,7 +6,7 @@
 * Client Admin [https://github.com/hovanvydut/pbl6-frontend-admin](https://github.com/hovanvydut/pbl6-frontend-admin)
 * Backend Service [https://github.com/hovanvydut/pbl6-be-monolithic](https://github.com/hovanvydut/pbl6-be-monolithic)
 * AI Service [https://github.com/hovanvydut/pbl6-ai](https://github.com/hovanvydut/pbl6-ai)
-* Migration [https://github.com/hovanvydut/pbl6-ai](https://github.com/hovanvydut/pbl6-ai)
+* Migration [https://github.com/hovanvydut/pbl6-be-migration)
 
 
 ## Contributor 🌟
