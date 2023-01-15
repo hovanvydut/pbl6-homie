@@ -1,12 +1,12 @@
 
 # Homie - INN Findor System
 ## Repositories 🔥
-* Mobile [https://github.com/hovanvydut/pbl6-mobile](https://github.com/hovanvydut/pbl6-mobile)
-* Client End User [https://github.com/hovanvydut/pbl6-frontend-client](https://github.com/hovanvydut/pbl6-frontend-client)
-* Client Admin [https://github.com/hovanvydut/pbl6-frontend-admin](https://github.com/hovanvydut/pbl6-frontend-admin)
-* Backend Service [https://github.com/hovanvydut/pbl6-be-monolithic](https://github.com/hovanvydut/pbl6-be-monolithic)
-* AI Service [https://github.com/hovanvydut/pbl6-ai](https://github.com/hovanvydut/pbl6-ai)
-* Migration [https://github.com/hovanvydut/pbl6-be-migration](https://github.com/hovanvydut/pbl6-be-migration)
+* [Mobile](https://github.com/hovanvydut/pbl6-mobile)
+* [Client End User](https://github.com/hovanvydut/pbl6-frontend-client)
+* [Client Admin](https://github.com/hovanvydut/pbl6-frontend-admin)
+* [Backend Service](https://github.com/hovanvydut/pbl6-be-monolithic)
+* [AI Service](https://github.com/hovanvydut/pbl6-ai)
+* [Migration](https://github.com/hovanvydut/pbl6-be-migration)
 
 
 ## Contributor 🌟
