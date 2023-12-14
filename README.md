@@ -7,7 +7,7 @@
 * [Backend Service](https://github.com/hovanvydut/pbl6-be-monolithic)
 * [AI Service](https://github.com/hovanvydut/pbl6-ai)
 * [Migration](https://github.com/hovanvydut/pbl6-be-migration)
-
+* [Notification Service](https://github.com/phuocleoceo/pbl6-be-notification)
 
 ## Contributor 🌟
 <table>
